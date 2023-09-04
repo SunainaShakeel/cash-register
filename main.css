@@ -1,0 +1,51 @@
+*{
+
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    text-align: center;
+    color:aliceblue;
+    background-color: black;
+    
+}
+#bill-amount{
+    display:flex;
+    text-align: center;
+    justify-content: center;
+    max-width: fit-content;
+    margin: auto;
+    
+}
+#cash-given{
+    text-align: center;
+    display:flex;
+    max-width: fit-content;
+    margin: auto;
+}
+#check-button{
+    margin:auto;
+}
+
+.table, th, td {
+        border: 1px solid;
+        margin-left: 90px;
+        margin-right: 90px;
+      }
+.no-of-notes{
+    margin-left: 90px;
+    margin-right: 90px;
+    
+}
+body {
+    background-color: black;
+  }
+    
+.change-table{
+    font-size: larger;
+}
+
+
+
